@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+  m_Name: "pp"
+  m_EditorClassIdentifier: 
+  settings:
+  - {fileID: 11400000, guid: 5fdbe563284e40458b088909cbbf3d4a, type: 2}
+  - {fileID: 11400000, guid: f5bd38e9e2dd4cf1af47cbf0d16efaf2, type: 2}
+  - {fileID: 11400000, guid: 048c4a7fb9a44b15a4fa1256fa5b44a7, type: 2}
+  - {fileID: 11400000, guid: c8ace3aae0f24fcc8db02ab851ebc2c6, type: 2}
+  - {fileID: 11400000, guid: 7ae6bb4cc456462aa1c0ea86334ed3a0, type: 2}
+  - {fileID: 11400000, guid: 31b56493842843dbb428171da2eecdd3, type: 2}
